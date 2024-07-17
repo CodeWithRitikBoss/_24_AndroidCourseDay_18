@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 17 of Android Dev_ Random No Generating with dice roller application</string>
+    <string name="random_no_generation_with_dice_rolling_app">Random No Generation with \nDice Rolling App</string>
+    <string name="random_number_is_here">Random Number is here</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="click_on_button">Click on Button</string>
+    <string name="com_ritikcoder">com.RitikCoder</string>
+</resources>
